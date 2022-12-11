@@ -1,0 +1,38 @@
+#form{
+size: 30%;
+/* height: 200px;
+width: 200px; */
+align-items: center;
+/* background-color: aquamarine; */
+}
+#form-wrapper{
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  user-select: none;
+  
+}
+h1{
+  margin-right: 14px;
+}
+#datePicker{
+  height: 50px;
+  width: 150px;
+  font-size: larger;
+  border: 1px solid grey;
+  border-radius: 20px;
+  padding: 10px;
+  font-weight: 700;
+}
+#resultBlock{
+  font-weight: 700;
+  font-size: xx-large;
+  text-align: center;
+  /* background-color: beige; */
+}
+.workText{
+  
+}
+.noWorkText{
+  color: rgb(255, 93, 93);
+}
